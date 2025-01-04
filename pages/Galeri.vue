@@ -12,7 +12,7 @@
         <p class="gallery-caption"><b>RPS PPLG</b></p>
       </div>
       <div class="gallery-item">
-        <img src="/assets/image/Tkj.png" alt="TKJT" class="gallery-image" />
+        <img src="/assets/image/tkj.png" alt="TKJT" class="gallery-image" />
         <p class="gallery-caption"><b>RPS TJKT</b></p>
       </div>
       <div class="gallery-item">
